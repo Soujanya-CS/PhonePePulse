@@ -27,15 +27,15 @@ Data Retrieval: Data from the MySQL database is fetched into a Pandas dataframe 
 
 **Technologies Used**
 
-Python
+-->Python
 
-Pandas
+-->Pandas
 
-MySQL
+-->MySQL
 
-Plotly
+-->Plotly
 
-Streamlit
+-->Streamlit
 
 **Results**
 
