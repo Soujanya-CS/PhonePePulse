@@ -25,6 +25,18 @@ Data Retrieval: Data from the MySQL database is fetched into a Pandas dataframe 
 
 -->Launch the dashboard: streamlit run dashboard.py
 
+**Technologies Used**
+
+Python
+
+Pandas
+
+MySQL
+
+Plotly
+
+Streamlit
+
 **Results**
 
 A live geo visualization dashboard that displays insights and information from the PhonePe Pulse GitHub repository in an interactive and visually appealing manner. The dashboard includes at least 10 dropdown options for users to select different facts and figures for display. Data is stored in a MySQL database for efficient retrieval, and the dashboard dynamically updates to reflect the latest data.
